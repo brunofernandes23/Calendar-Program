@@ -1,5 +1,5 @@
 function display(){
-    let month = parseInt(document.getElementById("number").value);
+    let month = parseInt(document.getElementById("num").value);
     
    switch(month){
      case 1:  alert('January'); break;
