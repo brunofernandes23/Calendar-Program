@@ -1,10 +1,11 @@
-Programa para descobrir o mês correspondente ao número dele.
+Program to find the month corresponding to its number.
 
-Utilizando HTML, CSS e  Javascript, site com estilazação básica, apenas um site teste para a função switch/case no JavaScript.
 
-Abra o programa aqui:
+Using HTML, CSS and Javascript, site with basic styling, just a test site for the switch/case function in JavaScript.
+
+Open the program here:
 https://lucid-bartik-0ed8c0.netlify.app
 
-Espero que gostem!
+Hope you like it!
 
 Code is Life xD
